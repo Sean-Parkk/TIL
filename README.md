@@ -1,2 +1,2 @@
 # TIL
-Today i Learned
+* 공부한 것 기록해놓기!
